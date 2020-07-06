@@ -6,6 +6,7 @@ function say(){
 
 function answer(){
 	console.log('world');
+	console.log('how are you');
 }
 
 
